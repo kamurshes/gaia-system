@@ -1,5 +1,7 @@
-# GAIA System
+# GAIA SYSTEM
 
-GAIA Systemは、MAを用いた判定ロジックを実装した自動売買用のプログラムである。
+GAIA SYSTEMは、FXの自動売買システム（EA）になります。
 
-検証を兼ねたEAのバージョン管理としてGithubを利用している。
+システムの稼働にはMetaTrader4というFX用のソフトウェアが必要です。
+
+「GAIA システムご利用マニュアル」に、MetaTrader4のダウンロード方法を記載しているので、ご一読の上、自己責任の元、実施してください。
